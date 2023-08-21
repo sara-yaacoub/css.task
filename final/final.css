@@ -1,0 +1,29 @@
+
+body{
+    background-color: black; 
+    font-family:roboto;
+    color:white;
+}
+
+.lable{
+    font-size:25px;
+    display:inline;
+}
+
+nav ul {
+    float:right;
+}
+
+nav ul li{
+    display:inline;
+}
+nav ul li a {
+    color:rgb(230, 204, 164);
+}
+.video{
+    height:450px;
+}
+.footer{
+    color:red;
+    float:right;
+}
